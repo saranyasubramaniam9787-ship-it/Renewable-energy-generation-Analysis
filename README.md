@@ -121,19 +121,19 @@ Key analytical questions explored in this project include:
 
 ## ⚙️ How to Use
 
-### Step 1 — Download or Clone the Repository
+## Download or Clone the Repository
 
 Clone the project repository using Git:
 
 ```bash
-git clone https://github.com/your-username/renewable-energy-generation-analysis.git
+git clone https://github.com/saranyasubramaniam9787-ship-it/Renewable-energy-generation-Analysis.git
 ```
 
 Or download the repository as a ZIP file from GitHub.
 
 ---
 
-### Step 2 — Open the Project Folder
+## Open the Project Folder
 
 Project structure:
 
@@ -147,19 +147,16 @@ renewable-energy-generation-analysis/
 │   └── Project_Documentation.pdf
 └── README.md
 ```
-
 ---
 
-### Step 3 — Install Required Software
+## Install Required Software
 
 Make sure you have installed:
 
 - Microsoft Power BI Desktop
 - Microsoft Excel
 
----
-
-### Step 4 — Open the Power BI Dashboard
+## Open the Power BI Dashboard
 
 1. Open **Power BI Desktop**
 2. Click **File → Open**
@@ -168,10 +165,7 @@ Make sure you have installed:
 ```
 Renewable_Energy_Dashboard.pbix
 ```
-
----
-
-### Step 5 — Refresh the Dataset
+## Refresh the Dataset
 
 1. Go to **Home**
 2. Click **Refresh**
@@ -180,10 +174,7 @@ Renewable_Energy_Dashboard.pbix
 ```
 renewable_energy_dataset.xlsx
 ```
-
----
-
-### Step 6 — Explore the Dashboard
+## Explore the Dashboard
 
 Use the interactive visuals to analyze:
 
@@ -203,7 +194,7 @@ to explore the data interactively.
 
 ---
 
-### Step 7 — Review the Documentation
+##  Review the Documentation
 
 For detailed methodology, refer to:
 
