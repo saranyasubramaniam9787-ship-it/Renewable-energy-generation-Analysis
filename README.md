@@ -174,30 +174,6 @@ Renewable_Energy_Dashboard.pbix
 ```
 renewable_energy_dataset.xlsx
 ```
-## Explore the Dashboard
 
-Use the interactive visuals to analyze:
 
-- Renewable energy generation trends
-- State and region performance
-- Energy types (Solar, Wind, Hybrid)
-- Station efficiency
 
-Use filters such as:
-
-- State
-- Energy Type
-- Sector
-- Date
-
-to explore the data interactively.
-
----
-
-##  Review the Documentation
-
-For detailed methodology, refer to:
-
-```
-docs/Project_Documentation.pdf
-```
